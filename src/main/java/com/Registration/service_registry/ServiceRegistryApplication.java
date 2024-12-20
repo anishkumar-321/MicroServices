@@ -6,6 +6,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @SpringBootApplication
 @EnableEurekaServer
+//i am checking why this service registry is not getting pushed into the branch by the way!
 public class ServiceRegistryApplication {
 
 	public static void main(String[] args) {
